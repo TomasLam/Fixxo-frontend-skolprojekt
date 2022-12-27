@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fixxo-app-react/static/css/main.7942d51f.css",
+    "main.js": "/fixxo-app-react/static/js/main.e63c1d65.js",
+    "static/js/787.28cb0dcd.chunk.js": "/fixxo-app-react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/fixxo-app-react/index.html",
+    "main.7942d51f.css.map": "/fixxo-app-react/static/css/main.7942d51f.css.map",
+    "main.e63c1d65.js.map": "/fixxo-app-react/static/js/main.e63c1d65.js.map",
+    "787.28cb0dcd.chunk.js.map": "/fixxo-app-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7942d51f.css",
+    "static/js/main.e63c1d65.js"
+  ]
+}
